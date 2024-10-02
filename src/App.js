@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Home from './Home';
 import Contact from './Contact';
@@ -14,7 +13,7 @@ function App() {
       <header className='App-header'>
         <h1>MY SINGLE PAGE APPLICATION</h1>
         <nav className='navbar'>
-          <div><b>Internet Programming</b>
+          <div><b>INTERNET PROGRAMMING</b>
           <Link to="/">Home</Link>
           <Link to="/session">Session</Link>
           <Link to="/contact">Contact</Link>
